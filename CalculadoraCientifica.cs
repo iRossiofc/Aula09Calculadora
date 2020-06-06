@@ -1,10 +1,12 @@
 namespace Aula09Calculadora
 {
+    //essa classe é uma filha da classe calculador, por isso é utilizado os dois pontos (:) e dps o nome da classe pai
     public class CalculadoraCientifica : Calculadora
     {
         private string[] valores { get;set; }
         private float soma {get;set;}
 
+        //esse metodo serve para calcular a media, ele pega o texto do console dividido por ";" soma todos e divide pela quantidade de numeros colocados
         public void CalcularMedia(string txtConsole){
 
             resultado = 0;
@@ -25,6 +27,7 @@ namespace Aula09Calculadora
             resultado = soma / valores.Length;
         }
 
+        //esse metodo serve para controlar o metodo, basicamente lê a entrada do usuario e divide entre o "num1" e "num2" e no "operador"
         public void ControlarMetodos(string entradaUsuario){
 
             // "12 x 4"
@@ -38,6 +41,7 @@ namespace Aula09Calculadora
             operador = dados[1];
             num2 = float.Parse(dados[2]); 
 
+            ///switch serve para selecionar o  caso, o que passar será o operador na operação
             switch (operador)
             {                
                 case "+":
