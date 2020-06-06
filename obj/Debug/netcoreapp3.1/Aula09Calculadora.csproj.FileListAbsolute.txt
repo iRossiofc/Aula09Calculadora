@@ -1,0 +1,13 @@
+C:\Users\positivo\Documents\projetos\4° sprint\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.exe
+C:\Users\positivo\Documents\projetos\4° sprint\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.deps.json
+C:\Users\positivo\Documents\projetos\4° sprint\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.runtimeconfig.json
+C:\Users\positivo\Documents\projetos\4° sprint\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.runtimeconfig.dev.json
+C:\Users\positivo\Documents\projetos\4° sprint\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.dll
+C:\Users\positivo\Documents\projetos\4° sprint\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.pdb
+C:\Users\positivo\Documents\projetos\4° sprint\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.csprojAssemblyReference.cache
+C:\Users\positivo\Documents\projetos\4° sprint\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\positivo\Documents\projetos\4° sprint\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.AssemblyInfoInputs.cache
+C:\Users\positivo\Documents\projetos\4° sprint\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.AssemblyInfo.cs
+C:\Users\positivo\Documents\projetos\4° sprint\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.dll
+C:\Users\positivo\Documents\projetos\4° sprint\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.pdb
+C:\Users\positivo\Documents\projetos\4° sprint\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.genruntimeconfig.cache
